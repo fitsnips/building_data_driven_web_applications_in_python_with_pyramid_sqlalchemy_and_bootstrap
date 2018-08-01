@@ -1,0 +1,2 @@
+include *.txt *.ini *.cfg *.rst
+recursive-include building_data_driven_web_applications_in_python_with_pyramid_sqlalchemy_and_bootstrap *.ico *.png *.css *.gif *.jpg *.pt *.txt *.mak *.mako *.js *.html *.xml *.jinja2

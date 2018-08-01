@@ -61,3 +61,7 @@ fabric.properties
 
 # Virtual Env
 venv/
+
+# other idea files
+.idea/*.iml
+.idea/*.xml
